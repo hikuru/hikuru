@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am Halil İbrahim Kuru ! I have earned my BS (2016) and MS (2019) degrees in Computer Engineering from Bilkent University. I'm currently a PhD candidate at the Computer Engineering Department of Bilkent University.
+
+My research areas include deep learning, computational cancer biology, personalized medicine and more ...
 
 <!--
 **hikuru/hikuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
